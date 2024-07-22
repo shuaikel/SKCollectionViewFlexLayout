@@ -1,0 +1,16 @@
+PODS:
+  - SKCollectionViewFlexLayout (0.1.0)
+
+DEPENDENCIES:
+  - SKCollectionViewFlexLayout (from `../`)
+
+EXTERNAL SOURCES:
+  SKCollectionViewFlexLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SKCollectionViewFlexLayout: d80ba2ef093e9cc09e043b612e48a14d1d7c3e54
+
+PODFILE CHECKSUM: 814ca6841bda02f8e0f7d064bf1fd833c957afc0
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,22 @@
+{
+  "name": "SKCollectionViewFlexLayout",
+  "version": "0.1.0",
+  "summary": "A short description of SKCollectionViewFlexLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shuaike/SKCollectionViewFlexLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shuaike": "718401263@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/shuaike/SKCollectionViewFlexLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SKCollectionViewFlexLayout/Classes/**/*"
+}
