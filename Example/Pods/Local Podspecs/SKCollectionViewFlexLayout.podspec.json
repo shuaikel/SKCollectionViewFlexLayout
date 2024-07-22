@@ -1,9 +1,9 @@
 {
   "name": "SKCollectionViewFlexLayout",
-  "version": "0.1.0",
-  "summary": "A short description of SKCollectionViewFlexLayout.",
+  "version": "1.0.0",
+  "summary": "UICollectionFlowlayout布局样式，类似于flex layout",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/shuaike/SKCollectionViewFlexLayout",
+  "homepage": "https://github.com/shuaikel/SKCollectionViewFlexLayout.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,13 @@
     "shuaike": "718401263@qq.com"
   },
   "source": {
-    "git": "https://github.com/shuaike/SKCollectionViewFlexLayout.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:shuaikel/SKCollectionViewFlexLayout.git",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "SKCollectionViewFlexLayout/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "SKCollectionViewFlexLayout/Classes/**/*",
+  "swift_version": "5.0"
 }

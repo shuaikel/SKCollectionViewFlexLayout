@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SKCollectionViewFlexLayout'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of SKCollectionViewFlexLayout.'
+  s.version          = '1.0.0'
+  s.summary          = 'UICollectionFlowlayout布局样式，类似于flex layout'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,15 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/shuaike/SKCollectionViewFlexLayout'
+  s.homepage         = 'https://github.com/shuaikel/SKCollectionViewFlexLayout.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'shuaike' => '718401263@qq.com' }
-  s.source           = { :git => 'https://github.com/shuaike/SKCollectionViewFlexLayout.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:shuaikel/SKCollectionViewFlexLayout.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
+  s.swift_version = '5.0'
 
   s.source_files = 'SKCollectionViewFlexLayout/Classes/**/*'
   
